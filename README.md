@@ -10,5 +10,9 @@ Added line to generate merge conflicts when finishing featureTwo...(ain't I a st
 This is a new feature; newFeatureThree
 
 
+UPDATE!!! New feature added; newFeatureTwo.
+
+
+
 This repository should under no circumstances be used fora new project. 
 This is a test repository that I can screw around with.
